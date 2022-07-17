@@ -1,10 +1,10 @@
+#paster
 
 
-Love gay Spanish💜
 ---
 
 <a href="https://discord.com/users/899699593581830185">
-  <img src="https://lanyard.cnrad.dev/api/899699593581830185?hideTimestamp=true&idleMessage=sleep/relax time :D <3" align="right" />
+  <img src="https://lanyard.cnrad.dev/api/899699593581830185?hideTimestamp=true&idleMessage=i like little childs :D <3" align="right" />
 </a>
 
 - 🖥️ Codering Hcka language

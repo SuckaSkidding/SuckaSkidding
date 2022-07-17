@@ -1,4 +1,4 @@
-#paster
+
 
 
 ---
@@ -7,7 +7,7 @@
   <img src="https://lanyard.cnrad.dev/api/899699593581830185?hideTimestamp=true&idleMessage=i like little childs :D <3" align="right" />
 </a>
 
-- 🖥️ Codering Hcka language
+- language
   - French learned :🇫🇷:
   - learning English :o 🥖
   - C++ 💫

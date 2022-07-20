@@ -1,5 +1,6 @@
 
 
+<h1 align="center">big paster bio</h1>
 
 ---
 
@@ -12,6 +13,7 @@
   - learning English :o 🥖
   - C++ 💫
   - 1.2 years of life experience :D 
+
 
 
 <h3 align="left">Languages and Tools:</h3>

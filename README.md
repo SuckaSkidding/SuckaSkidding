@@ -12,7 +12,7 @@
   - French learned :🇫🇷:
   - learning English :o 🥖
   - C++ 💫
-  - 1.2 years of life experience :D 
+  - 2 years of life experience :D 
 
 
 
@@ -20,6 +20,6 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a height="40"/> 
 
 C++ Student 
-Sometimes Learning Lua And JS
+Sometimes Learning PHP And JS
 
 Actually working on many cheeto project for fivem , fortnite ...

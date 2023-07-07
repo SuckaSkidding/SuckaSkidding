@@ -1,6 +1,6 @@
 
 
-<h1 align="center">big paster bio</h1>
+<h1 align="center">Information about me !</h1>
 
 ---
 

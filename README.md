@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Information about me !</h1>
----
+
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/899699593581830185?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/899699593581830185)
 

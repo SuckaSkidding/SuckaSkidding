@@ -8,9 +8,10 @@
   <img src="https://lanyard.cnrad.dev/api/899699593581830185?hideTimestamp=true&idleMessage=i like little childs :D <3" align="right" />
 </a>
 
-  - I can talk english and frencn
-  - C++ (2 Years) 💫
-     
+  - I'm from France and i also try to talk english 
+  - C++ (2 Years) 
+  - PHP (1 month but i'm really bad) 
+  - Python ( i'm using it at school )
 
 
 

@@ -4,9 +4,8 @@
 
 ---
 
-<a href="https://discord.com/users/899699593581830185">
-  <img src="https://lanyard.cnrad.dev/api/899699593581830185?hideTimestamp=true&idleMessage=i like little childs :D <3" align="right" />
-</a>
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/899699593581830185?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/899699593581830185)
+
 
   - I'm from France and i also try to talk english 
   - C++ (2 Years) 

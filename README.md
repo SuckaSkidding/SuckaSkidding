@@ -1,6 +1,5 @@
 <h1 align="center">Information about me!</h1>
-
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/899699593581830185?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/899699593581830185)
+Discord : v2almz667
 
 - I'm from France and I also try to speak English 
 - C++ (2 years) 
@@ -19,6 +18,4 @@
 </p>
 
 <p>I'm currently working on a FiveM project and also on my own authentication system</p>
-
-<h3 align="left">Now Playing on Spotify:</h3>
 

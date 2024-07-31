@@ -1,20 +1,25 @@
-
-
-<h1 align="center">Information about me !</h1>
-
+<h1 align="center">Information about me!</h1>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/899699593581830185?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/899699593581830185)
 
-  - I'm from France and i also try to talk english 
-  - C++ (2 Years) 
-  - PHP (1 month but i'm really bad) 
-  - Python ( i'm using it at school )
-
-
+- I'm from France and I also try to speak English 
+- C++ (2 years) 
+- PHP (1 month but I'm really bad) 
+- Python (I'm using it at school)
 
 <h3 align="left">Languages and Tools:</h3>
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1JgknGBbrfmEHeOZH051SS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a height="40"/> 
 
-I'm currently working on a FiveM project and also on my own authenthification system 
+<p align="left"> 
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
+  </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+  </a>
+</p>
 
+<p>I'm currently working on a FiveM project and also on my own authentication system</p>
+
+<h3 align="left">Now Playing on Spotify:</h3>
+
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_user_id&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://open.spotify.com/user/your_spotify_user_id)

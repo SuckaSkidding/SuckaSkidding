@@ -2,9 +2,10 @@
 Discord : v2almz667
 
 - I'm from France and I also try to speak English 
-- C++ (2 years) 
-- PHP (1 month but I'm really bad) 
-- Python (I'm using it at school)
+- C++ (5 years) 
+- PHP (6 month) 
+- Python 
+- Javascript (for Fun)
 
 <h3 align="left">Languages and Tools:</h3>
 

@@ -1,5 +1,5 @@
 <h1 align="center">Information about me!</h1>
-Discord : v2almz667
+Discord : walletvide
 
 - I'm from France and I also try to speak English 
 - C++ (5 years) 

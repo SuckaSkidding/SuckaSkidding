@@ -1,11 +1,11 @@
 <h1 align="center">Information about me!</h1>
-Discord : yougotwhatiwant
+Discord : sucka2992
 
-- I'm from France and I also try to speak English 
+- I'm from France, but i speak english too
 - C++ (5 years) 
 - PHP (6 month) 
 - Python 
-- Javascript (for Fun)
+- Javascript (No Serious project did with)
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -18,5 +18,5 @@ Discord : yougotwhatiwant
   </a>
 </p>
 
-<p>I'm currently working on a FiveM project and also on my own authentication system</p>
+<p>I'm working a lot as an audio engineer but i still do code when i have time</p>
 

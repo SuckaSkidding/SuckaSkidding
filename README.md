@@ -1,5 +1,5 @@
 <h1 align="center">Information about me!</h1>
-Discord : strangethinking (old one got deleted)
+Discord : sucka2992
 
 - I'm from France, but i speak english too
 - C++ (5 years) 
